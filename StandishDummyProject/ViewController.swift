@@ -3,7 +3,7 @@
 //  StandishDummyProject
 //
 //  Created by Standish Xcode on 8/24/16.
-//  Copyright © 2016 Standish Xcode. All rights reserved.
+//  Copyright © 2016 Standish Xcode. All rights reserved...
 //
 
 import UIKit
